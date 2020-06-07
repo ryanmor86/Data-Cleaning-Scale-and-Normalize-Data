@@ -4,4 +4,4 @@
 - Practice scaling
 - Practice normalization
 
-## Let's get started with downloading the notebook and the data. each step is explained in detail in the notebook.
+## Let's get started with downloading the notebook and the data where each step is explained in detail in the notebook.
